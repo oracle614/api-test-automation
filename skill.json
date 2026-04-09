@@ -1,0 +1,25 @@
+{
+  "name": "api-test-automation",
+  "version": "1.0.0",
+  "description": "API接口测试自动化 - 支持Swagger/文档解析、自动生成测试脚本、参数校验、返回验证",
+  "author": "Sisyphus",
+  "trigger": [
+    "API测试",
+    "接口测试",
+    "Swagger测试",
+    "接口文档测试",
+    "API自动化",
+    "接口校验"
+  ],
+  "capabilities": [
+    "解析Swagger/OpenAPI文档",
+    "解析接口文档生成测试用例",
+    "自动生成API测试脚本",
+    "参数必填校验",
+    "返回值结构校验",
+    "响应码验证",
+    "数据类型校验",
+    "生成测试报告"
+  ],
+  "category": "testing"
+}
